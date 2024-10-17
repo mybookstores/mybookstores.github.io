@@ -10,567 +10,187 @@
         </author>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Thu, 13 Aug 2020 21:12:48 +0800</pubDate>
-        <lastBuildDate>Thu, 13 Aug 2020 21:12:48 +0800</lastBuildDate>
+        <pubDate>Thu, 26 Dec 2024 22:46:49 +0800</pubDate>
+        <lastBuildDate>Thu, 26 Dec 2024 22:46:49 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/display/</guid>
-            <title>Step.3 界面显示</title>
-            <link>http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/display/</link>
-            <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
-            <category term="二进制杂谈" scheme="http://example.com/categories/computer-science/note/" />
-            <category term="Theme Shoka Documentation" scheme="http://example.com/categories/computer-science/note/theme-shoka-doc/" />
-            <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
-            <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/" />
-            <pubDate>Thu, 13 Aug 2020 21:12:48 +0800</pubDate>
-            <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;&lt;strong&gt;🌈界面显示&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;h1 id=&#34;首页置顶文章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#首页置顶文章&#34;&gt;#&lt;/a&gt; 首页置顶文章&lt;/h1&gt;
-&lt;p&gt;在文章的 Front Matter 设置 &lt;code&gt;sticky: true&lt;/code&gt; ，则该文章将显示在首页最上方的 &lt;code&gt;置顶文章&lt;/code&gt; 列。&lt;br /&gt;
-多篇文章按照发布时间倒序排列，不分页。&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;---&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;title: 置顶文章&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;sticky: true&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;---&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;h1 id=&#34;首页精选分类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#首页精选分类&#34;&gt;#&lt;/a&gt; 首页精选分类&lt;/h1&gt;
-&lt;p&gt;想要在首页显示分类翻转块，需要按照以下示例的方式，给需要显示的分类加上封面图。&lt;/p&gt;
+            <guid isPermalink="true">http://example.com/2024/12/26/images/</guid>
+            <title>Images</title>
+            <link>http://example.com/2024/12/26/images/</link>
+            <pubDate>Thu, 26 Dec 2024 22:46:49 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;This is a image test post.&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://dlink.host/images/aHR0cHM6Ly9vbmVkcnYtbXkuc2hhcmVwb2ludC5jb20vOmk6L2cvcGVyc29uYWwvc3Rvcl9vbmVkcnZfb25taWNyb3NvZnRfY29tL0VhUVN4M3pDMW9SQmlDUDZIenNkUjhvQjZlNDVfdWlYYkFERXRQeVRWN0s2Z1E.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://dlink.host/images/aHR0cHM6Ly9vbmVkcnYtbXkuc2hhcmVwb2ludC5jb20vOmk6L2cvcGVyc29uYWwvc3Rvcl9vbmVkcnZfb25taWNyb3NvZnRfY29tL0VkSFdwYWowVkI1THNZNlppVkUxX3RJQm1rNVBScE53Mk1aT2twUk9VbWZZM0E.jpg&#34; alt=&#34;Caption&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://dlink.host/images/aHR0cHM6Ly9vbmVkcnYtbXkuc2hhcmVwb2ludC5jb20vOmk6L2cvcGVyc29uYWwvc3Rvcl9vbmVkcnZfb25taWNyb3NvZnRfY29tL0VXbTEzcXMycEhkRm80bktOY1NIVEN3QjNJSzVVdHUwSG9EVk5SWFY5M3k3QVE.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://placehold.it/350x150.jpg&#34; alt=&#34;Small Picture&#34; /&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/12/25/no-title/</guid>
+            <title></title>
+            <link>http://example.com/2024/12/25/no-title/</link>
+            <pubDate>Wed, 25 Dec 2024 22:57:49 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;This post doesn&#39;t have a title. Make sure it&#39;s accessible.&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/12/24/link-post-without-title/</guid>
+            <title></title>
+            <link>http://example.com/2024/12/24/link-post-without-title/</link>
+            <pubDate>Tue, 24 Dec 2024 23:44:13 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;This is a link post without a title. The title should be the link with or without protocol. Clicking on the link should open &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5nb29nbGUuY29tLw==&#34;&gt;Google&lt;/span&gt; in a new tab or window.&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/12/24/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</guid>
+            <title>日本語テスト</title>
+            <link>http://example.com/2024/12/24/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</link>
+            <pubDate>Tue, 24 Dec 2024 23:33:26 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;This is a Japanese test post.&lt;/p&gt;
+&lt;p&gt;私は昨日ついにその助力家というのの上よりするたなけれ。&lt;/p&gt;
+&lt;p&gt;最も今をお話団はちょうどこの前後なかろでくらいに困りがいるたをは帰着考えたなかって、そうにもするでうたらない。&lt;/p&gt;
+&lt;p&gt;がたを知っないはずも同時に九月をいよいよたありた。&lt;/p&gt;
+&lt;p&gt;もっと槙さんにぼんやり金少し説明にえた自分大した人私か影響にというお関係たうませないが、この次第も私か兄具合に使うて、槙さんののに当人のあなたにさぞご意味と行くて私個人が小尊敬を聴いように同時に同反抗に集っだうて、いよいよまず相当へあっうからいだ事をしでなけれ。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;それでそれでもご時日をしはずはたったいやと突き抜けるますて、その元がは行ったてという獄を尽すていけですた。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;この中道具の日その学校はあなたごろがすまなりかとネルソンさんの考えるですん、辺の事実ないというご盲従ありたですと、爺さんのためが薬缶が結果までの箸の当時してならて、多少の十月にためからそういう上からとにかくしましないと触れべきものたで、ないうですと多少お人達したのでたた。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;From &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2xpcHN1bS5zdWd1dHN1a2FlcnUuanAvaW5kZXguY2dp&#34;&gt;すぐ使えるダミーテキスト - 日本語 Lorem ipsum&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/12/24/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</guid>
+            <title>中文測試</title>
+            <link>http://example.com/2024/12/24/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</link>
+            <pubDate>Tue, 24 Dec 2024 23:31:30 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;This is a Chinese test post.&lt;/p&gt;
+&lt;p&gt;善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。&lt;/p&gt;
+&lt;p&gt;以也座論頭室業放。要車時地變此親不老高小是統習直麼調未，行年香一？&lt;/p&gt;
+&lt;p&gt;就竟在，是我童示讓利分和異種百路關母信過明驗有個歷洋中前合著區亮風值新底車有正結，進快保的行戰從：弟除文辦條國備當來際年每小腳識世可的的外的廣下歌洲保輪市果底天影；全氣具些回童但倒影發狀在示，數上學大法很，如要我…… 月品大供這起服滿老？應學傳者國：山式排只不之然清同關；細車是！停屋常間又，資畫領生，相們制在？公別的人寫教資夠。資再我我！只臉夫藝量不路政吃息緊回力之；兒足灣電空時局我怎初安。意今一子區首者微陸現際安除發連由子由而走學體區園我車當會，經時取頭，嚴了新科同？很夫營動通打，出和導一樂，查旅他。坐是收外子發物北看蘭戰坐車身做可來。道就學務。&lt;/p&gt;
+&lt;p&gt;國新故。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;工步他始能詩的，裝進分星海演意學值例道…… 於財型目古香亮自和這乎？化經溫詩。只賽嚴大一主價世哥受的沒有中年即病行金拉麼河。主小路了種就小為廣不？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;From &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5yaWNoeWxpLmNvbS90b29sL2xvcmVtaXBzdW0v&#34;&gt;亂數假文產生器 - Chinese Lorem Ipsum&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/12/24/long-title/</guid>
+            <title>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam justo turpis, tincidunt ac convallis id.</title>
+            <link>http://example.com/2024/12/24/long-title/</link>
+            <pubDate>Tue, 24 Dec 2024 23:31:06 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;This post has a long title. Make sure the title displayed right.&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/12/24/categories/</guid>
+            <title>Categories</title>
+            <link>http://example.com/2024/12/24/categories/</link>
+            <category term="Foo" scheme="http://example.com/categories/Foo/" />
+            <category term="Bar" scheme="http://example.com/categories/Foo/Bar/" />
+            <category term="Baz" scheme="http://example.com/categories/Foo/Bar/Baz/" />
+            <pubDate>Tue, 24 Dec 2024 23:30:09 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;This post contains 3 categories. Make sure your theme can display all of the categories.&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/12/24/link-post/</guid>
+            <title>Link Post</title>
+            <link>http://example.com/2024/12/24/link-post/</link>
+            <pubDate>Tue, 24 Dec 2024 23:30:04 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;This is a link post. Clicking on the link should open &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5nb29nbGUuY29tLw==&#34;&gt;Google&lt;/span&gt; in a new tab or window.&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/12/24/elements/</guid>
+            <title>Elements</title>
+            <link>http://example.com/2024/12/24/elements/</link>
+            <pubDate>Tue, 24 Dec 2024 23:29:08 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;The purpose of this post is to help you make sure all of HTML elements can display properly. If you use CSS reset, don&#39;t forget to redefine the style by yourself.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;heading-1&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#heading-1&#34;&gt;#&lt;/a&gt; Heading 1&lt;/h1&gt;
+&lt;h2 id=&#34;heading-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#heading-2&#34;&gt;#&lt;/a&gt; Heading 2&lt;/h2&gt;
+&lt;h3 id=&#34;heading-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#heading-3&#34;&gt;#&lt;/a&gt; Heading 3&lt;/h3&gt;
+&lt;h4 id=&#34;heading-4&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#heading-4&#34;&gt;#&lt;/a&gt; Heading 4&lt;/h4&gt;
+&lt;h5 id=&#34;heading-5&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#heading-5&#34;&gt;#&lt;/a&gt; Heading 5&lt;/h5&gt;
+&lt;h6 id=&#34;heading-6&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#heading-6&#34;&gt;#&lt;/a&gt; Heading 6&lt;/h6&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;paragraph&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#paragraph&#34;&gt;#&lt;/a&gt; Paragraph&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, &lt;a href=&#34;&#34;&gt;test link&lt;/a&gt; consectetur adipiscing elit. &lt;strong&gt;Strong text&lt;/strong&gt; pellentesque ligula commodo viverra vehicula. &lt;em&gt;Italic text&lt;/em&gt; at ullamcorper enim. Morbi a euismod nibh. &amp;lt;u&amp;gt;Underline text&amp;lt;/u&amp;gt; non elit nisl. &lt;s&gt;Deleted text&lt;/s&gt; tristique, sem id condimentum tempus, metus lectus venenatis mauris, sit amet semper lorem felis a eros. Fusce egestas nibh at sagittis auctor. Sed ultricies ac arcu quis molestie. Donec dapibus nunc in nibh egestas, vitae volutpat sem iaculis. Curabitur sem tellus, elementum nec quam id, fermentum laoreet mi. Ut mollis ullamcorper turpis, vitae facilisis velit ultricies sit amet. Etiam laoreet dui odio, id tempus justo tincidunt id. Phasellus scelerisque nunc sed nunc ultricies accumsan.&lt;/p&gt;
+&lt;p&gt;Interdum et malesuada fames ac ante ipsum primis in faucibus.  &lt;code&gt;Sed erat diam&lt;/code&gt; , blandit eget felis aliquam, rhoncus varius urna. Donec tellus sapien, sodales eget ante vitae, feugiat ullamcorper urna. Praesent auctor dui vitae dapibus eleifend. Proin viverra mollis neque, ut ullamcorper elit posuere eget.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Maecenas ornare arcu at mi suscipit, non molestie tortor ultrices. Aenean convallis, diam et congue ultricies, erat magna tincidunt orci, pulvinar posuere mi sapien ac magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent vitae placerat mauris. Nullam laoreet ante posuere tortor blandit auctor. Sed id ligula volutpat leo consequat placerat. Mauris fermentum dolor sed augue malesuada sollicitudin. Vivamus ultrices nunc felis, quis viverra orci eleifend ut. Donec et quam id urna cursus posuere. Donec elementum scelerisque laoreet.&lt;/p&gt;
+&lt;h2 id=&#34;list-types&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#list-types&#34;&gt;#&lt;/a&gt; List Types&lt;/h2&gt;
+&lt;h3 id=&#34;definition-list-dl&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#definition-list-dl&#34;&gt;#&lt;/a&gt; Definition List (dl)&lt;/h3&gt;
+&lt;p&gt;&amp;lt;dl&amp;gt;&amp;lt;dt&amp;gt;Definition List Title&amp;lt;/dt&amp;gt;&amp;lt;dd&amp;gt;This is a definition list division.&amp;lt;/dd&amp;gt;&amp;lt;/dl&amp;gt;&lt;/p&gt;
+&lt;h3 id=&#34;ordered-list-ol&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ordered-list-ol&#34;&gt;#&lt;/a&gt; Ordered List (ol)&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;首先，修改站点配置：&lt;br /&gt;
-找到 &lt;code&gt;category_map:&lt;/code&gt; ，配置每个分类对应的英文映射，比如：&lt;br /&gt;
-&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;category_map:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;计算机科学:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;computer-science&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;Java:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;java&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;C++:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;cpp&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;二进制杂谈:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;note&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;计算机程序设计（C++）-西安交通大学:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;course-1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;零基础学Java语言-浙江大学-翁恺:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;course-1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;面向对象程序设计-Java语言-浙江大学-翁恺:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;course-2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;注意：hexo 会自动处理路径中的特殊字符，~`!@#$%&lt;span&gt;&lt;/span&gt;^&amp;amp;*()-_+=&lt;span&gt;&lt;/span&gt;{}|\;:&amp;quot;&#39;&amp;lt;&amp;gt;,.? 以及空格，这些全部会被替换成 &lt;code&gt;-&lt;/code&gt; &lt;br /&gt;
- 所以避免在设置中使用上述字符，否则可导致无法抓取到目录下的 &lt;code&gt;cover.jpg&lt;/code&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;在 &lt;code&gt;&amp;lt;root&amp;gt;/source/_posts&lt;/code&gt;  文件夹相应的目录里，存放封面图&lt;br /&gt;
-例子：如 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9qYXZhL2NvdXJzZS0xL3dlZWstMS8=&#34;&gt;第 1 周 计算&lt;/span&gt; 这篇文章。&lt;br /&gt;
-所处的分类是&lt;br /&gt;
- &lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;categories:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; [&lt;span class=&#34;string&#34;&gt;计算机科学&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;Java&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;零基础学Java语言-浙江大学-翁恺&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;br /&gt;
- 现在需要在首页显示 &lt;code&gt;零基础学Java语言-浙江大学-翁恺&lt;/code&gt; 这个分类，翻转卡片后，显示这个分类下的文章们。&lt;br /&gt;
-而该分类经过英文映射，它的路径将是 &lt;code&gt;/computer-science/java/course-1/&lt;/code&gt; 。&lt;/p&gt;
-&lt;p&gt;那么，请在 &lt;code&gt;&amp;lt;root&amp;gt;/source/_posts/computer-science/java/course-1/&lt;/code&gt;  的目录下放置 &lt;code&gt;cover.jpg&lt;/code&gt;  文件。&lt;br /&gt;
-只要 &lt;code&gt;分类路径&lt;/code&gt; 对应的目录下&lt;strong&gt;存在&lt;/strong&gt; &lt;code&gt;cover.jpg&lt;/code&gt;  文件，这个分类就会在首页显示。&lt;br /&gt;
-在进行 &lt;code&gt;hexo g&lt;/code&gt;  时，本分类的封面图会自动被复制到 public 目录里相应的位置。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;事实上，为了方便文章管理，这个分类下所有文章的 md 文件，我都会放在 &lt;code&gt;&amp;lt;root&amp;gt;/source/_posts/computer-science/java/course-1/&lt;/code&gt;  这个目录下。&lt;/p&gt;
-&lt;p&gt;且站点配置文件里，永久链接设置如下&lt;br /&gt;
- &lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;permalink:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;:title/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;br /&gt;
- &lt;code&gt;hexo g&lt;/code&gt;  后，文章的 html 文件们将全部生成到 &lt;code&gt;&amp;lt;root&amp;gt;/public/computer-science/java/course-1/&lt;/code&gt;  目录。&lt;br /&gt;
-具体可以查看&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvc2hva2E=&#34;&gt;本博客的 github 仓库&lt;/span&gt;。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;文章详情界面中的 &lt;code&gt;系列文章&lt;/code&gt; ，显示的是与当前文章同一分类的其他文章，并按照文章名正序排序。&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;List Item 1&lt;/li&gt;
+&lt;li&gt;List Item 2&lt;/li&gt;
+&lt;li&gt;List Item 3&lt;/li&gt;
 &lt;/ol&gt;
-&lt;blockquote&gt;
-&lt;p&gt;o (*￣▽￣*) ゞ&lt;br /&gt;
-其实，不设置 &lt;code&gt;category_map&lt;/code&gt;  也可以，只要在分类路径对应的文件夹下存在 &lt;code&gt;cover.jpg&lt;/code&gt;  文件就行。&lt;br /&gt;
-现在，这项功能与 &lt;code&gt;category_dir&lt;/code&gt;  的配置也无关， &lt;code&gt;hexo g&lt;/code&gt;  生成后，图片会自动被转移到 &lt;code&gt;category_dir&lt;/code&gt;  的相关子目录下。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1 id=&#34;文章封面图&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文章封面图&#34;&gt;#&lt;/a&gt; 文章封面图&lt;/h1&gt;
+&lt;h3 id=&#34;unordered-list-ul&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#unordered-list-ul&#34;&gt;#&lt;/a&gt; Unordered List (ul)&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;如果文章的 Front Matter 设置了 &lt;code&gt;cover: image path&lt;/code&gt; ，则封面会显示这张图片。&lt;br /&gt;
-&lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption&gt;&lt;span&gt;举个栗子&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;title:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Images&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;cover:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;assets/wallpaper-2572384.jpg&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 或者写成&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;cover:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;http://placehold.it/350x150.jpg&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;br /&gt;
- 这里 &lt;code&gt;cover&lt;/code&gt;  的值可以是位于 &lt;code&gt;source&lt;/code&gt;  目录里的图片文件，此处是 &lt;code&gt;&amp;lt;root&amp;gt;/source/assets/wallpaper-2572384.jpg&lt;/code&gt;  文件，也可以是一个某网址。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;如果文章是一个 &lt;code&gt;gallery post&lt;/code&gt; ，即 Front Matter 设置了 &lt;code&gt;photos&lt;/code&gt; ，则会封面会显示设置的第一张图片。&lt;br /&gt;
-&lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption&gt;&lt;span&gt;举个栗子&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;title:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Gallery&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Post&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;photos:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;assets/wallpaper-2572384.jpg&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;assets/wallpaper-2311325.jpg&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;assets/wallpaper-878514.jpg&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;http://placehold.it/350x150.jpg&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;br /&gt;
- 此时默认会显示第一个图片，即位于 &lt;code&gt;&amp;lt;root&amp;gt;/source/assets/&lt;/code&gt;  目录里的 &lt;code&gt;wallpaper-2572384.jpg&lt;/code&gt; 。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;如果站点配置中设置了 &lt;code&gt;post_asset_folder: true&lt;/code&gt; ，那么上述本地图片路径应为 &lt;code&gt;&amp;lt;root&amp;gt;/source/_posts/文章同名的文件夹/assets/wallpaper-2572384.jpg&lt;/code&gt; ，当然此时 &lt;code&gt;assets&lt;/code&gt;  目录可以省掉。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;如果以上设置均不存在，将显示一张随机图片，&lt;a href=&#34;../config/#%E9%9A%8F%E6%9C%BA%E5%9B%BE%E5%BA%93&#34;&gt;随机图库配置戳此&lt;/a&gt;。&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;List Item 1&lt;/li&gt;
+&lt;li&gt;List Item 2&lt;/li&gt;
+&lt;li&gt;List Item 3&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;图片展示与相册&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#图片展示与相册&#34;&gt;#&lt;/a&gt; 图片展示与相册&lt;/h1&gt;
-&lt;p&gt;在文章的 Front Matter 设置 &lt;code&gt;fancybox: false&lt;/code&gt; ，可以关闭文章页的图片展示功能。&lt;br /&gt;
-使用&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL21pcm9tYW5uaW5vLmdpdGh1Yi5pby9KdXN0aWZpZWQtR2FsbGVyeS8=&#34;&gt; Justified-Gallery&lt;/span&gt; 对 Gallery Post 内图案进行排列。&lt;/p&gt;
-&lt;p&gt;下面介绍一些小技巧：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;让图案下方显示 &lt;code&gt;title&lt;/code&gt;  的 markdown 代码&lt;br /&gt;
- &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;![这里是alt](https://tva3.sinaimg.cn/large/6833939bly1gicis081o9j20zk0m8dmr.jpg &amp;quot;这里是title&amp;quot;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;br /&gt;
-&lt;img data-src=&#34;https://tva3.sinaimg.cn/large/6833939bly1gicis081o9j20zk0m8dmr.jpg&#34; alt=&#34;这里是alt&#34; title=&#34;这里是title&#34; /&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;设置图片的大小&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;![](https://tva3.sinaimg.cn/large/6833939bly1gicis081o9j20zk0m8dmr.jpg &amp;quot;定义图片大小-固定宽度和高度&amp;quot;)&amp;#123;height=&amp;quot;100px&amp;quot; width=&amp;quot;400px&amp;quot;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;![](https://tva3.sinaimg.cn/large/6833939bly1gicis081o9j20zk0m8dmr.jpg &amp;quot;定义图片大小-固定宽度&amp;quot;)&amp;#123;width=&amp;quot;400px&amp;quot;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;![](https://tva3.sinaimg.cn/large/6833939bly1gicis081o9j20zk0m8dmr.jpg &amp;quot;定义图片大小-固定高度&amp;quot;)&amp;#123;height=&amp;quot;100px&amp;quot;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://tva3.sinaimg.cn/large/6833939bly1gicis081o9j20zk0m8dmr.jpg&#34; alt=&#34;&#34; title=&#34;定义图片大小-固定宽度和高度&#34; height=&#34;100px&#34; width=&#34;400px&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://tva3.sinaimg.cn/large/6833939bly1gicis081o9j20zk0m8dmr.jpg&#34; alt=&#34;&#34; title=&#34;定义图片大小-固定宽度&#34; width=&#34;400px&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://tva3.sinaimg.cn/large/6833939bly1gicis081o9j20zk0m8dmr.jpg&#34; alt=&#34;&#34; title=&#34;定义图片大小-固定高度&#34; height=&#34;100px&#34; /&gt;&lt;/p&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;除了在 Front Matter 里配置 &lt;code&gt;photos&lt;/code&gt;  可以显示相册图案列表外，还可以这样写&lt;br /&gt;
- &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;## 图案列表No.1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;![](https://tva3.sinaimg.cn/large/6833939bly1giclfdu6exj20zk0m87hw.jpg &amp;quot;这里是title&amp;quot;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;![](https://tva3.sinaimg.cn/large/6833939bly1giclflwv2aj20zk0m84qp.jpg)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;![](https://tva3.sinaimg.cn/large/6833939bly1giclg5ms2rj20zk0m8u0x.jpg)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;![](https://tva3.sinaimg.cn/large/6833939bly1giclhnx9glj20zk0m8npd.jpg)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;.gallery&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;## 图案列表No.2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;![](https://tva3.sinaimg.cn/large/6833939bly1gicitht3xtj20zk0m8k5v.jpg)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;![](https://tva3.sinaimg.cn/large/6833939bly1giclil3m4ej20zk0m8tn8.jpg)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;![](https://tva3.sinaimg.cn/large/6833939bly1gicljgocqbj20zk0m8e81.jpg)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;![](https://tva3.sinaimg.cn/large/6833939bly1gipetfk5zwj20zk0m8e81.jpg)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;.gallery data-height=&amp;quot;120&amp;quot;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;code&gt;data-height&lt;/code&gt;  用来设置每行的高度，默认为 &lt;code&gt;220&lt;/code&gt;&lt;/p&gt;
-&lt;h2 id=&#34;图案列表no1&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#图案列表no1&#34;&gt;#&lt;/a&gt; 图案列表 No.1&lt;/h2&gt;
-&lt;p class=&#34;gallery&#34;&gt;&lt;img data-src=&#34;https://tva3.sinaimg.cn/large/6833939bly1giclfdu6exj20zk0m87hw.jpg&#34; alt=&#34;&#34; title=&#34;这里是title&#34; /&gt;&lt;br /&gt;
-&lt;img data-src=&#34;https://tva3.sinaimg.cn/large/6833939bly1giclflwv2aj20zk0m84qp.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
-&lt;img data-src=&#34;https://tva3.sinaimg.cn/large/6833939bly1giclg5ms2rj20zk0m8u0x.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
-&lt;img data-src=&#34;https://tva3.sinaimg.cn/large/6833939bly1giclhnx9glj20zk0m8npd.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;h2 id=&#34;图案列表no2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#图案列表no2&#34;&gt;#&lt;/a&gt; 图案列表 No.2&lt;/h2&gt;
-&lt;p class=&#34;gallery&#34; data-height=&#34;120&#34;&gt;&lt;img data-src=&#34;https://tva3.sinaimg.cn/large/6833939bly1gicitht3xtj20zk0m8k5v.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
-&lt;img data-src=&#34;https://tva3.sinaimg.cn/large/6833939bly1giclil3m4ej20zk0m8tn8.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
-&lt;img data-src=&#34;https://tva3.sinaimg.cn/large/6833939bly1gicljgocqbj20zk0m8e81.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
-&lt;img data-src=&#34;https://tva3.sinaimg.cn/large/6833939bly1gipetfk5zwj20zk0m8e81.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;h1 id=&#34;自定义页面配色&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自定义页面配色&#34;&gt;#&lt;/a&gt; 自定义页面配色&lt;/h1&gt;
-&lt;p&gt;主题配色全部在 &lt;code&gt;&amp;lt;root&amp;gt;/themes/shoka/source/css/_colors.styl&lt;/code&gt;  文件中，可以自行查看。&lt;/p&gt;
-&lt;p&gt;在 &lt;code&gt;&amp;lt;root&amp;gt;/source/_data/&lt;/code&gt;  目录新建文件 &lt;code&gt;colors.styl&lt;/code&gt; ，在此文件中添改样式。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;自定义 &lt;code&gt;colors.styl&lt;/code&gt;  文件将覆盖主题默认样式，为了避免出错，请保证原有样式名均存在，在原有样式基础上进行增删改。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;主题支持在 &lt;code&gt;&amp;lt;root&amp;gt;/source/_data/&lt;/code&gt;  目录建立三个自定义 &lt;code&gt;styl&lt;/code&gt;  文件：&lt;/p&gt;
+&lt;h3 id=&#34;checkbox-list-ul&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#checkbox-list-ul&#34;&gt;#&lt;/a&gt; Checkbox List (ul)&lt;/h3&gt;
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_0&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_0&#34;&gt; List Item 1 unchecked&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_1&#34; checked=&#34;true&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_1&#34;&gt; List Item 2 checked&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_2&#34; checked=&#34;true&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_2&#34;&gt; List Item 3 checked&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;table&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#table&#34;&gt;#&lt;/a&gt; Table&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;自定义文件名&lt;/th&gt;
-&lt;th&gt;对应默认样式文件&lt;/th&gt;
-&lt;th&gt;样式功能&lt;/th&gt;
+&lt;th&gt;Table Header 1&lt;/th&gt;
+&lt;th&gt;Table Header 2&lt;/th&gt;
+&lt;th&gt;Table Header 3&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;code&gt;colors.styl&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;_colors.styl&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;页面配色&lt;/td&gt;
+&lt;td&gt;Division 1&lt;/td&gt;
+&lt;td&gt;Division 2&lt;/td&gt;
+&lt;td&gt;Division 3&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;code&gt;iconfont.styl&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;_iconfont.styl&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;../config/#iconfont%E5%9B%BE%E6%A0%87&#34;&gt;图标样式&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Division 1&lt;/td&gt;
+&lt;td&gt;Division 2&lt;/td&gt;
+&lt;td&gt;Division 3&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;code&gt;custom.styl&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;任意自定义样式&lt;/td&gt;
+&lt;td&gt;Division 1&lt;/td&gt;
+&lt;td&gt;Division 2&lt;/td&gt;
+&lt;td&gt;Division 3&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h1 id=&#34;自定义主题图片&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自定义主题图片&#34;&gt;#&lt;/a&gt; 自定义主题图片&lt;/h1&gt;
-&lt;p&gt;如果想要修改主题的 &lt;code&gt;&amp;lt;root&amp;gt;/themes/shoka/source/images/&lt;/code&gt;  目录内的某张图片，请在 &lt;code&gt;&amp;lt;root&amp;gt;/source/_data/&lt;/code&gt;  目录新建目录 &lt;code&gt;images&lt;/code&gt; ，并在这个文件夹中添加&lt;ins&gt;同名&lt;/ins&gt;文件，部署时将自动覆盖主题内的默认图片。&lt;/p&gt;
-&lt;p&gt;可以用此方法自定义头像、打赏二维码等图片，并且避免覆盖更新主题时遗失自定义文件。&lt;/p&gt;
-&lt;h1 id=&#34;自定义语言包&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自定义语言包&#34;&gt;#&lt;/a&gt; 自定义语言包&lt;/h1&gt;
-&lt;p&gt;本功能参考 NexT，主要可以用来定义菜单等处显示的文字，且可以方便主题无脑覆盖升级。&lt;/p&gt;
-&lt;p&gt;在 &lt;code&gt;&amp;lt;root&amp;gt;/source/_data/&lt;/code&gt;  目录新建文件 &lt;code&gt;languages.yml&lt;/code&gt; 。&lt;/p&gt;
-&lt;p&gt;按照以下格式添加配置项：&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# language&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;zh-CN:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;# items&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;post:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;copyright:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;comment&#34;&gt;# the translation you perfer&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;author:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;本文博主&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;en:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;menu:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;travellings:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Travellings&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;可以参考主题目录下的 &lt;code&gt;example/source/_data&lt;/code&gt;  文件夹。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;站点配置及文件的 Front Matter 中， &lt;code&gt;language&lt;/code&gt;  项只支持 &lt;code&gt;zh-CN&lt;/code&gt; 、 &lt;code&gt;zh-HK&lt;/code&gt; 、 &lt;code&gt;zh-TW&lt;/code&gt; 、 &lt;code&gt;ja&lt;/code&gt; 、 &lt;code&gt;en&lt;/code&gt; 。&lt;br /&gt;
-类似写成 &lt;code&gt;zh_CN&lt;/code&gt;  这样是不可以的。&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h2 id=&#34;misc-stuff-abbr-acronym-sub-sup-kbd-etc&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#misc-stuff-abbr-acronym-sub-sup-kbd-etc&#34;&gt;#&lt;/a&gt; Misc Stuff - abbr, acronym, sub, sup, kbd, etc.&lt;/h2&gt;
+&lt;p&gt;Lorem &amp;lt;sup&amp;gt;superscript&amp;lt;/sup&amp;gt; dolor &amp;lt;sub&amp;gt;subscript&amp;lt;/sub&amp;gt; amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. &amp;lt;cite&amp;gt;cite&amp;lt;/cite&amp;gt;. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. &amp;lt;acronym title=&amp;quot;National Basketball Association&amp;quot;&amp;gt;NBA&amp;lt;/acronym&amp;gt; Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.  &amp;lt;abbr title=&amp;quot;Avenue&amp;quot;&amp;gt;AVE&amp;lt;/abbr&amp;gt;. Use &amp;lt;kbd&amp;gt;Crtl&amp;lt;/kbd&amp;gt; + &amp;lt;kbd&amp;gt;C&amp;lt;/kbd&amp;gt; to stop.&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/config/</guid>
-            <title>Step.2 基本配置</title>
-            <link>http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/config/</link>
-            <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
-            <category term="二进制杂谈" scheme="http://example.com/categories/computer-science/note/" />
-            <category term="Theme Shoka Documentation" scheme="http://example.com/categories/computer-science/note/theme-shoka-doc/" />
-            <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
-            <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/" />
-            <pubDate>Thu, 13 Aug 2020 20:56:48 +0800</pubDate>
-            <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;&lt;strong&gt;📌基本配置&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;h1 id=&#34;站点别称&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#站点别称&#34;&gt;#&lt;/a&gt; 站点别称&lt;/h1&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;alternate:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Yume&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Shoka&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;br /&gt;
- 这里设置的名称代替 Logo，显示在页面顶部，以及页尾©️处&lt;/p&gt;
-&lt;h1 id=&#34;静态文件目录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#静态文件目录&#34;&gt;#&lt;/a&gt; 静态文件目录&lt;/h1&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;statics:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;/&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;#//cdn.jsdelivr.net/gh/amehime/shoka@latest/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;br /&gt;
- 默认值是 &lt;code&gt;/&lt;/code&gt; ，指使用本地静态文件&lt;br /&gt;
-可以修改成 &lt;code&gt;//cdn.jsdelivr.net/gh/您的github用户名/您的项目名@latest/&lt;/code&gt;  这种形式，以使用 jsDelivr 进行加速。&lt;br /&gt;
-PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;css:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;css&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;js:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;js&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;images:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;images&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;br /&gt;
- 静态文件所处目录的实际目录名，这些一般不改。&lt;/p&gt;
-&lt;h1 id=&#34;夜间模式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#夜间模式&#34;&gt;#&lt;/a&gt; 夜间模式&lt;/h1&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;darkmode:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;br /&gt;
- 默认情况下，是否开启夜间模式取决于（优先级从高到低）：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;访客点击页面头部切换按钮的自行选择&lt;/li&gt;
-&lt;li&gt;访客切换了浏览设备的主题色调&lt;/li&gt;
-&lt;li&gt;您的 &lt;code&gt;darkmode&lt;/code&gt;  配置项&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1 id=&#34;自动定位&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自动定位&#34;&gt;#&lt;/a&gt; 自动定位&lt;/h1&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;auto_scroll:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# false&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;br /&gt;
- 默认情况下，再次打开页面时，会自动滚动到上次浏览的位置。&lt;br /&gt;
-这个选项设为 &lt;code&gt;false&lt;/code&gt;  时将停用此功能。&lt;/p&gt;
-&lt;h1 id=&#34;加载动画&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#加载动画&#34;&gt;#&lt;/a&gt; 加载动画&lt;/h1&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 是否显示页面加载动画loading-cat&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;loader:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;start:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 当初次打开页面时，显示加载动画&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;switch:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# tab切换到其他页面时，显示加载动画&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;tab 切换后只是显示 loading 动画，实际并未重新加载页面&lt;/p&gt;
-&lt;h1 id=&#34;页面特效&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#页面特效&#34;&gt;#&lt;/a&gt; 页面特效&lt;/h1&gt;
-&lt;p&gt;单击页面的烟花效果配置如下&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;fireworks:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 是否启用&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;color:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 烟花颜色&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;rgba(255,182,185,.9)&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;rgba(250,227,217,.9)&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;rgba(187,222,214,.9)&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;rgba(138,198,209,.9)&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;h1 id=&#34;加载谷歌字体&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#加载谷歌字体&#34;&gt;#&lt;/a&gt; 加载谷歌字体&lt;/h1&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;font:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;# Font options:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;# `external: true` will load this font family from `host` above.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;# `family: Times New Roman`. Without any quotes.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;# `size: x.x`. Use `em` as unit. Default: 1 (16px)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;# Global font settings used for all elements inside &amp;lt;body&amp;gt;.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;global:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;external:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;family:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Mulish&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;size:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;# Font settings for alternate title.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;logo:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;external:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;family:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Fredericka&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;the&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Great&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;size:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;3.5&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;# Font settings for site title.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;title:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;external:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;family:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Noto&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Serif&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;JP&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;size:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;2.5&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;# Font settings for headlines (&amp;lt;h1&amp;gt; to &amp;lt;h6&amp;gt;).&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;headings:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;external:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;family:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Noto&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Serif&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;SC&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;size:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;# Font settings for posts.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;posts:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;external:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;family:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;# Font settings for &amp;lt;code&amp;gt; and code blocks.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;codes:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;external:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;family:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Inconsolata&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;此功能基本参考 NexT。&lt;br /&gt;
-加粗标题的字体总是使用 &lt;code&gt;Noto Serif&lt;/code&gt; ，为了正确友好的显示日文中的汉字，会先后加载 &lt;code&gt;headings&lt;/code&gt;  和 &lt;code&gt;title&lt;/code&gt;  的字体设置。&lt;/p&gt;
-&lt;h1 id=&#34;iconfont图标&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#iconfont图标&#34;&gt;#&lt;/a&gt;  &lt;code&gt;iconfont&lt;/code&gt;  图标&lt;/h1&gt;
-&lt;p&gt;主题没有直接使用 Font Awesome，是因为用不到那么多 icon 感觉非常浪费，因此在 Iconfont 上重新建立了一个项目。&lt;br /&gt;
- &lt;code&gt;font-family&lt;/code&gt;  设为 &lt;code&gt;ic&lt;/code&gt; ，所有字体样式前缀为 &lt;code&gt;i-&lt;/code&gt; ，具体参见 &lt;code&gt;&amp;lt;root&amp;gt;/themes/shoka/source/css/_iconfont.styl&lt;/code&gt; 。&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# project of https://www.iconfont.cn/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# //at.alicdn.com/t/font_1832207_c8i9n1ulxlt.css =&amp;gt; 1832207_c8i9n1ulxlt&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;iconfont:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;1832207_c8i9n1ulxlt&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;如果需要添加或修改，请留言告诉我您的&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaWNvbmZvbnQuY24v&#34;&gt; Iconfont&lt;/span&gt; 用户名，我将把您添加到目前的&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaWNvbmZvbnQuY24vbWFuYWdlL2luZGV4P21hbmFnZV90eXBlPW15cHJvamVjdHMmYW1wO3Byb2plY3RJZD0xODMyMjA3&#34;&gt;项目&lt;/span&gt;中。&lt;/p&gt;
-&lt;p&gt;添加权限为 &lt;code&gt;只读&lt;/code&gt; ，此后您可以任意全选，批量保存到购物车中，添加至您自己的项目里，并将主题配置文件中的 &lt;code&gt;iconfont&lt;/code&gt;  值改为您的项目。&lt;/p&gt;
-&lt;p&gt;注意，您的项目应设置 &lt;code&gt;FontClass/Symbol 前缀&lt;/code&gt; 为 &lt;code&gt;i-&lt;/code&gt; 。&lt;/p&gt;
-&lt;p&gt;在 &lt;code&gt;&amp;lt;root&amp;gt;/source/_data/&lt;/code&gt;  目录新建文件 &lt;code&gt;iconfont.styl&lt;/code&gt; ，把新增或修改的图标样式复制到这个文件中。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;自定义 &lt;code&gt;iconfont.styl&lt;/code&gt;  文件将覆盖主题默认样式，为了避免出错，请保证原有样式名均存在，在原有样式基础上进行增删改。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1 id=&#34;菜单与社交按钮&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#菜单与社交按钮&#34;&gt;#&lt;/a&gt; 菜单与社交按钮&lt;/h1&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;menu:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;home:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;/&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;||&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;home&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;about:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;/about/&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;||&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;user&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;posts:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;default:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;/&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;||&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;feather&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;archives:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;/archives/&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;||&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;list-alt&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;categories:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;/categories/&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;||&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;th&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;tags:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;/tags/&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;||&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;tags&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;# friends: /friends/ || heart&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;# links: /links/ || magic&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;social:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;github:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://github.com/yourname&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;||&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;github&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;||&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;#191717&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;#google: https://plus.google.com/yourname || google&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;twitter:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://twitter.com/yourname&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;||&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;twitter&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;||&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;#00aff0&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;zhihu:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://www.zhihu.com/people/yourname&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;||&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;zhihu&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;||&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;#1e88e5&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;music:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://music.163.com/#/user/home?id=yourid&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;||&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;cloud-music&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;||&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;#e60026&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;weibo:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://weibo.com/yourname&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;||&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;weibo&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;||&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;#ea716e&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;about:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://about.me/yourname&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;||&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;address-card&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;||&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;#3b5998&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;#email: mailto:yourname@mail.com || envelope || &amp;quot;#55acd5&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;#facebook: https://www.facebook.com/yourname || facebook&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;#stackoverflow: https://stackoverflow.com/yourname || stack-overflow&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;#youtube: https://youtube.com/yourname || youtube&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;#instagram: https://instagram.com/yourname || instagram&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;#skype: skype:yourname?call|chat || skype&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;#douban: https://www.douban.com/people/yourname/ || douban&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;br /&gt;
- 如上，使用 &lt;code&gt;||&lt;/code&gt;  作为分隔符，依次为  &lt;code&gt;链接 || 图标 || 颜色&lt;/code&gt; 。&lt;br /&gt;
-注意，只需要写图标名称，如 &lt;code&gt;github&lt;/code&gt; ，则会自动转换为 &lt;code&gt;ic i-github&lt;/code&gt; 。&lt;br /&gt;
-十六进制颜色码需要 &lt;code&gt;&amp;quot;&amp;quot;&lt;/code&gt;  包绕。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;menu&lt;/code&gt;  支持一级子目录，子目录设置中的第一项必须为 &lt;code&gt;default&lt;/code&gt; ，用来定义父级按钮的样式。&lt;/p&gt;
-&lt;p&gt;菜单显示文字可以在语言包中定义，&lt;a href=&#34;../display/#%E8%87%AA%E5%AE%9A%E4%B9%89%E8%AF%AD%E8%A8%80%E5%8C%85&#34;&gt;具体请戳这里&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;边栏配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#边栏配置&#34;&gt;#&lt;/a&gt; 边栏配置&lt;/h1&gt;
-&lt;p&gt;边栏可以选择在左侧，或右侧&lt;br /&gt;
-修改头像文件的地址，相对于静态文件目录 &lt;code&gt;images&lt;/code&gt;  中配置的路径。&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;sidebar:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;# Sidebar Position.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;position:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;left&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;#position: right&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;# Replace the default avatar image and set the url here.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;avatar:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;avatar.jpg&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;可以将自己的图片放在 &lt;code&gt;&amp;lt;root&amp;gt;/source/_data/images/&lt;/code&gt;  目录，甚至以同名覆盖主题内默认的头像图片，&lt;a href=&#34;../display/#%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%BB%E9%A2%98%E5%9B%BE%E7%89%87&#34;&gt;具体请戳这里&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;底部widgets&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#底部widgets&#34;&gt;#&lt;/a&gt; 底部 widgets&lt;/h1&gt;
-&lt;p&gt;目前页面底部可以显示两个小部件，即 &lt;code&gt;随机文章&lt;/code&gt; 和 &lt;code&gt;最近评论&lt;/code&gt; 。&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;widgets:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;random_posts:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 显示随机文章&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;recent_comments:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 显示最近评论&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;h1 id=&#34;字数及阅读时间统计&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#字数及阅读时间统计&#34;&gt;#&lt;/a&gt; 字数及阅读时间统计&lt;/h1&gt;
-&lt;p&gt;安装好 &lt;code&gt;hexo-symbols-count-time&lt;/code&gt;  插件后，不需要修改站点配置文件，直接使用插件默认配置就行。&lt;/p&gt;
-&lt;p&gt;需要修改主题配置文件，找到两处 &lt;code&gt;cout&lt;/code&gt; ，修改为 &lt;code&gt;true&lt;/code&gt; ：&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 页尾全站统计&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;footer:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;since:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;2010&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;count:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 文章界面统计&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;post:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;count:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;h1 id=&#34;文章评论&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文章评论&#34;&gt;#&lt;/a&gt; 文章评论&lt;/h1&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92YWxpbmUuanMub3JnL3F1aWNrc3RhcnQuaHRtbA==&#34;&gt;如何获取 LeanCloud 的 appId 和 appKey&lt;/span&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;valine:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;appId:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;#Your_appId&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;appKey:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;#Your_appkey&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;placeholder:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;ヽ(○´∀`)ﾉ♪&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# Comment box placeholder&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;avatar:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;mp&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# Gravatar style : mp, identicon, monsterid, wavatar, robohash, retro&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;pageSize:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;10&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# Pagination size&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;lang:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;zh-CN&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;visitor:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 文章访问量统计&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;NoRecordIP:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 不记录IP&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;serverURLs:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# When the custom domain name is enabled, fill it in here (it will be detected automatically by default, no need to fill in)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;powerMode:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 默认打开评论框输入特效&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;tagMeta:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;visitor:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;新朋友&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;master:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;主人&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;friend:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;小伙伴&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;investor:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;金主粑粑&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;tagColor:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;master:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;var(--color-orange)&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;friend:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;var(--color-aqua)&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;investor:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;var(--color-pink)&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;tagMember:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;master:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;comment&#34;&gt;# - hash of master@email.com&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;comment&#34;&gt;# - hash of master2@email.com&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;friend:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;comment&#34;&gt;# - hash of friend@email.com&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;comment&#34;&gt;# - hash of friend2@email.com&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;investor:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;comment&#34;&gt;# - hash of investor1@email.com&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;tag 标签显示在评论者名字的后面，默认是 &lt;code&gt;tagMeta.visitor&lt;/code&gt;  对应的值。&lt;br /&gt;
-在 &lt;code&gt;tagMeta&lt;/code&gt;  和 &lt;code&gt;tagColor&lt;/code&gt;  中，除了 &lt;code&gt;visitor&lt;/code&gt;  这个 key 不能修改外，其他 key 都可以换一换，但需要保证一致性。&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption&gt;&lt;span&gt;举个栗子&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;tagMeta:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;visitor:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;游客&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;admin:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;管理员&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;waifu:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;我老婆&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;tagColor:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;visitor:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;#855194&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;admin:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;#a77c59&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;waifu:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;#ed6ea0&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;tagMember:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;admin:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;# - hash of admin@email.com&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;waifu:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;# - hash of waifu@email.com&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;在文章 Front Matter 中也可以配置上述参数，访问该文章页面时，将覆盖全局配置。&lt;br /&gt;
-尤其可以用来配置一个特殊的 placeholder。&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;valine:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;placeholder:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;1. 提问前请先仔细阅读本文档⚡\n2. 页面显示问题💥，请提供控制台截图📸或者您的测试网址\n3. 其他任何报错💣，请提供详细描述和截图📸，祝食用愉快💪&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;评论通知与管理工具建议使用这个&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0Rlc2VydHNQL1ZhbGluZS1BZG1pbg==&#34;&gt; Valine-Admin&lt;/span&gt;。&lt;br /&gt;
-注意 &lt;code&gt;SITE_URL&lt;/code&gt;  需要以 &lt;code&gt;/&lt;/code&gt;  结尾。&lt;/p&gt;
-&lt;p&gt;如果某一篇文章需要关闭评论功能，则在文章 Front Matter 中配置：&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;title:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;关闭评论&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;comment:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;h1 id=&#34;背景音乐&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#背景音乐&#34;&gt;#&lt;/a&gt; 背景音乐&lt;/h1&gt;
-&lt;p&gt;在主题配置文件中，设置全局播放列表。&lt;br /&gt;
-在文章的 Front Matter 中，设置文章专有播放列表，访问该文章页面时，将覆盖全局配置。&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption&gt;&lt;span&gt;单列表&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;audio:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://music.163.com/song?id=1387098940&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://music.163.com/#/playlist?id=2088001742&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://www.xiami.com/collect/250830668&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://y.qq.com/n/yqq/playsquare/3535982902.html&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;br /&gt;
- 如上，可以直接使用网易云、虾米、QQ 音乐的播放列表、单曲，可以同时填写多个。&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption&gt;&lt;span&gt;多列表&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;audio:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;title:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;列表1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;list:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://music.163.com/#/playlist?id=2943811283&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://music.163.com/#/playlist?id=2297706586&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;title:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;列表2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;list:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://music.163.com/#/playlist?id=2031842656&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;如果需要自定义媒体文件，可以按照以下格式填写：&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption&gt;&lt;span&gt;单列表&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;audio:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;曲目1&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;url:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;播放地址&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;artist:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;艺术家&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;cover:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;封面&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;lrc:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;歌词&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;曲目2&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;url:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;播放地址&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;artist:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;艺术家&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;cover:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;封面&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;lrc:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;歌词&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption&gt;&lt;span&gt;多列表&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;audio:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;title:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;列表1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;list:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;曲目1&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;url:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;播放地址&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;artist:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;艺术家&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;cover:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;封面&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;lrc:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;歌词&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;曲目2&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;url:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;播放地址&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;artist:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;艺术家&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;cover:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;封面&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;lrc:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;歌词&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;title:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;列表2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;list:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://music.163.com/#/playlist?id=2031842656&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;如果要关闭当前页面的背景音乐播放器，则在文章 Front Matter 中配置：&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;title:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;关闭背景音乐&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;audio:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;h1 id=&#34;随机图库&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#随机图库&#34;&gt;#&lt;/a&gt; 随机图库&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;默认的图片列表位于 &lt;code&gt;&amp;lt;root&amp;gt;/themes/shoka/_images.yml&lt;/code&gt;  中。&lt;br /&gt;
-使用了渣浪图库，使用一些上传工具，比如&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9waWMuZ2ltaG95LmNvbS8=&#34;&gt;这里&lt;/span&gt;&lt;br /&gt;
-上传后图片的链接是 &lt;code&gt;http://wx4.sinaimg.cn/large/6833939bly1gicmnywqgpj20zk0m8dwx.jpg&lt;/code&gt; 。&lt;br /&gt;
-只需要新一行写上 &lt;code&gt;- 6833939bly1gicmnywqgpj20zk0m8dwx.jpg&lt;/code&gt; 。&lt;/p&gt;
-&lt;p&gt;如果想要自定义，则在 &lt;code&gt;&amp;lt;root&amp;gt;/source/_data/&lt;/code&gt;  目录新建一个 &lt;code&gt;images.yml&lt;/code&gt;  文件，这个文件中的图片至少 6 枚，将完全覆盖默认的图片列表。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;也可以直接在图片列表 yml 文件中，写上任意外链图片地址&lt;br /&gt;
- &lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://i.loli.net/2020/10/30/qAMYEFXxJcKRsiG.gif&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://i.loli.net/2020/10/30/rjdhcSgEN8COBPA.jpg&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://i.loli.net/2020/10/30/HKyzSd7NI3mlBpt.jpg&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://i.loli.net/2020/10/30/Y1CBXqgeokEs457.jpg&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://i.loli.net/2020/10/30/Z5W6r2BSoiThHG1.jpg&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;也可以在主题配置文件中，设置图床 API：&lt;br /&gt;
-&lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption&gt;&lt;span&gt;比如&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;image_server:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;https://acg.xydwz.cn/api/api.php&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;加载第三方组件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#加载第三方组件&#34;&gt;#&lt;/a&gt; 加载第三方组件&lt;/h1&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;vendors:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;css:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;# 略略略&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;js:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;# 略略略&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;br /&gt;
- 包括&lt;/p&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;pace&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;加载进度条&lt;/td&gt;
-&lt;td&gt;全局&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;pjax&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;页面无刷新加载&lt;/td&gt;
-&lt;td&gt;全局&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;anime&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;js 动画效果&lt;/td&gt;
-&lt;td&gt;全局&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;algolia&lt;/code&gt;   &lt;code&gt;instantsearch&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;基于 algolia 的站内搜索&lt;/td&gt;
-&lt;td&gt;全局&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;lazyload&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;图片懒加载&lt;/td&gt;
-&lt;td&gt;全局&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;quicklink&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;链接资源预加载&lt;/td&gt;
-&lt;td&gt;全局&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;fetch&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;获取播放列表&lt;/td&gt;
-&lt;td&gt;全局&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;katex&lt;/code&gt;   &lt;code&gt;copy_tex&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;数学公式显示及复制&lt;/td&gt;
-&lt;td&gt;按需&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;fancybox&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;图片放大显示及排列&lt;/td&gt;
-&lt;td&gt;按需&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;valine&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;基于 LeanCloud 的评论系统及文章阅读次数统计&lt;/td&gt;
-&lt;td&gt;按需&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;chart&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;图表显示&lt;/td&gt;
-&lt;td&gt;按需&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;以上文件加载全部基于 jsDelivr，并对全局加载的组件进行了文件合并。&lt;br /&gt;
-如果不明白啥意思，则不要轻易修改。&lt;/p&gt;
-&lt;div class=&#34;note danger&#34;&gt;
-&lt;p&gt;主题版本升级的时候，可能会修改这里。&lt;br /&gt;
-如果修改过主题默认 &lt;code&gt;_config.yml&lt;/code&gt; ，记得更新主题时，末尾的 &lt;code&gt;vendors&lt;/code&gt;  也要及时修改。&lt;/p&gt;
-&lt;/div&gt;
+            <guid isPermalink="true">http://example.com/2024/12/24/hello-world/</guid>
+            <title>Hello World</title>
+            <link>http://example.com/2024/12/24/hello-world/</link>
+            <pubDate>Tue, 24 Dec 2024 17:49:32 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3plc3BpYS50dy9oZXhv&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3plc3BpYS50dy9oZXhvL2RvY3M=&#34;&gt;documentation&lt;/span&gt; to learn how to use.&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/dependents/</guid>
-            <title>Step.1 依赖插件</title>
-            <link>http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/dependents/</link>
+            <guid isPermalink="true">http://example.com/2024/08/13/computer-science/note/whatever/</guid>
+            <title>渲染器使用说明</title>
+            <link>http://example.com/2024/08/13/computer-science/note/whatever/</link>
             <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
-            <category term="二进制杂谈" scheme="http://example.com/categories/computer-science/note/" />
-            <category term="Theme Shoka Documentation" scheme="http://example.com/categories/computer-science/note/theme-shoka-doc/" />
+            <category term="笔记" scheme="http://example.com/categories/computer-science/note/" />
             <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
             <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/" />
-            <pubDate>Thu, 13 Aug 2020 20:46:48 +0800</pubDate>
-            <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;&lt;strong&gt;💌依赖插件&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;note warning&#34;&gt;
-&lt;p&gt;请务必将 hexo-renderer-multi-markdown-it 升级到最新版，目前为 0.1.5&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;Theme Shoka 依赖以下 Hexo 插件&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;插件名称&lt;/th&gt;
-&lt;th&gt;npm 地址&lt;/th&gt;
-&lt;th&gt;功能&lt;/th&gt;
-&lt;th&gt;依赖程度&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;hexo-renderer-multi-markdown-it&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1yZW5kZXJlci1tdWx0aS1tYXJrZG93bi1pdA==&#34;&gt;链接&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;md 文件渲染器，压缩 css/js/html&lt;/td&gt;
-&lt;td&gt;必需&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;hexo-autoprefixer&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1hdXRvcHJlZml4ZXI=&#34;&gt;链接&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;给生成的 css 文件们添加浏览器前缀&lt;/td&gt;
-&lt;td&gt;必需&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;hexo-algoliasearch&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1hbGdvbGlhc2VhcmNo&#34;&gt;链接&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;站内搜索功能&lt;/td&gt;
-&lt;td&gt;搜索按钮失灵&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;hexo-symbols-count-time&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1zeW1ib2xzLWNvdW50LXRpbWU=&#34;&gt;链接&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;文章或站点字数及阅读时间统计&lt;/td&gt;
-&lt;td&gt;统计没有&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;hexo-feed&lt;/td&gt;
-&lt;td&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1mZWVk&#34;&gt;链接&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;生成 Feed 文件&lt;/td&gt;
-&lt;td&gt;Feed 文件没有&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;blockquote&gt;
-&lt;p&gt;没有正确安装以上插件的话，本主题会报错 or 无法正确显示 or 部分功能失效。&lt;br /&gt;
- &lt;code&gt;hexo-renderer-multi-markdown-it&lt;/code&gt;  请注意升级到最新版&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;安装完以上插件后，修改站点配置文件，加入相关配置。&lt;/p&gt;
-&lt;h1 id=&#34;multi-markdown-it安装与配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#multi-markdown-it安装与配置&#34;&gt;#&lt;/a&gt; multi-markdown-it 安装与配置&lt;/h1&gt;
-&lt;h2 id=&#34;安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装&#34;&gt;#&lt;/a&gt; 安装&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;安装前，记得务必卸载掉默认的 &lt;code&gt;hexo-renderer-marked&lt;/code&gt; ，以及别的 markdown 文件渲染器。&lt;br /&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm un hexo-renderer-marked --save&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 或者&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;yarn remove hexo-renderer-marked&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;安装&lt;br /&gt;
- &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm i hexo-renderer-multi-markdown-it --save&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 或者&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;yarn add hexo-renderer-multi-markdown-it&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;如果安装缓慢，或者失败&lt;br /&gt;
-如报错&lt;br /&gt;
- &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;ERROR: Failed to download Chromium r515411! Set &lt;span class=&#34;string&#34;&gt;&amp;quot;PUPPETEER_SKIP_CHROMIUM_DOWNLOAD&amp;quot;&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;env&lt;/span&gt; variable to skip download.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;br /&gt;
- 因为有一步需要下载 puppeteer 里的 Chromium 内核，基于天朝内部网络现状，这一步能不能成功要靠科学和运气，所以为了避免安装失败，需要加上 &lt;code&gt;--ignore-scripts&lt;/code&gt;  跳过 Chromium 内核的下载。&lt;br /&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm i hexo-renderer-multi-markdown-it --save --ignore-scripts&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 或者&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;yarn add hexo-renderer-multi-markdown-it --ignore-scripts&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;br /&gt;
-puppeteer 主要是用来渲染 mermaid 流程图，只要文章中不使用 mermaid 就没有任何问题，如果要使用 mermaid 建议还是想办法完全安装。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置&#34;&gt;#&lt;/a&gt; 配置&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;加入 &lt;code&gt;markdown&lt;/code&gt;  配置，用来渲染 md 文件&lt;br /&gt;
- &lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;markdown:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;render:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 渲染器设置&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;html:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 过滤 HTML 标签&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;xhtmlOut:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 使用 &amp;#x27;/&amp;#x27; 来闭合单标签 （比如 &amp;lt;br /&amp;gt;）。&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;breaks:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 转换段落里的 &amp;#x27;\n&amp;#x27; 到 &amp;lt;br&amp;gt;。&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;linkify:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 将类似 URL 的文本自动转换为链接。&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;typographer:&lt;/span&gt; &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;quotes:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#x27;“”‘’&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;plugins:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# markdown-it插件设置&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;plugin:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;markdown-it-toc-and-anchor&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;options:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 文章目录以及锚点应用的class名称，shoka主题必须设置成这样&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;tocClassName:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#x27;toc&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;anchorClassName:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#x27;anchor&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;plugin:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;markdown-it-multimd-table&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;options:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;multiline:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;rowspan:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;headerless:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;plugin:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;./markdown-it-furigana&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;options:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;fallbackParens:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;()&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;plugin:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;./markdown-it-spoiler&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;options:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;title:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;你知道得太多了&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;加入 &lt;code&gt;minify&lt;/code&gt;  配置，压缩 css/js/html&lt;br /&gt;
-&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;minify:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;html:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;exclude:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 排除hexo-feed用到的模板文件&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#x27;**/json.ejs&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#x27;**/atom.ejs&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#x27;**/rss.ejs&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;css:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;exclude:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#x27;**/*.min.css&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;js:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;mangle:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;toplevel:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;output:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;compress:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;exclude:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#x27;**/*.min.js&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;停用默认代码高亮功能，否则代码块的 mac 样式不能正常显示。&lt;br /&gt;
-找到 &lt;code&gt;highlight&lt;/code&gt;  和 &lt;code&gt;prismjs&lt;/code&gt; ，把 &lt;code&gt;enable&lt;/code&gt;  改成 &lt;code&gt;false&lt;/code&gt; 。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;highlight:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;prismjs:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;h1 id=&#34;autoprefixer配置建议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#autoprefixer配置建议&#34;&gt;#&lt;/a&gt; autoprefixer 配置建议&lt;/h1&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;autoprefixer:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;exclude:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#x27;*.min.css&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;缺少这个插件，首页卡片翻转效果在部分浏览器中无法正确显示。&lt;/p&gt;
-&lt;h1 id=&#34;algolia配置建议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#algolia配置建议&#34;&gt;#&lt;/a&gt; algolia 配置建议&lt;/h1&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;algolia:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;appId:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;#Your appId&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;apiKey:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;#Your apiKey&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;adminApiKey:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;#Your adminApiKey&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;chunkSize:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;5000&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;indexName:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;#&amp;quot;shoka&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;fields:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;title&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;#必须配置&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;path&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;#必须配置&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;categories&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;#推荐配置&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;content:strip:truncate,0,2000&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;gallery&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;photos&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;tags&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;h1 id=&#34;feed配置建议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#feed配置建议&#34;&gt;#&lt;/a&gt; feed 配置建议&lt;/h1&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;keywords:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;#站点关键词，用“,”分隔&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;feed:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;limit:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;20&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;order_by:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;-date&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;tag_dir:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;category_dir:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;rss:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;template:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;themes/shoka/layout/_alternate/rss.ejs&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;output:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;rss.xml&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;atom:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;template:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;themes/shoka/layout/_alternate/atom.ejs&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;output:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;atom.xml&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;jsonFeed:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;template:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;themes/shoka/layout/_alternate/json.ejs&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;output:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;feed.json&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/</guid>
-            <title>Hexo主题Shoka &amp; multi-markdown-it渲染器使用说明</title>
-            <link>http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/</link>
-            <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
-            <category term="二进制杂谈" scheme="http://example.com/categories/computer-science/note/" />
-            <category term="Theme Shoka Documentation" scheme="http://example.com/categories/computer-science/note/theme-shoka-doc/" />
-            <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
-            <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/" />
-            <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
-            <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;跳票 N 久终于更新的简单的使用说明&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==&#34;&gt;hexo-theme-shoka&lt;/span&gt; ：本博客自用的主题&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by1yZW5kZXJlci1tdWx0aS1tYXJrZG93bi1pdA==&#34;&gt;hexo-renderer-multi-markdown-it&lt;/span&gt;：配套的 markdown 渲染器&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;已经支持 hexo 5。&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;因博主被学业和工作掏空，本项目已停滞更新大半年，问题也无法及时回复大家，这个悲惨状态可能还要持续半年的样子。&lt;/p&gt;
-&lt;p&gt;有很多热心小伙伴在评论区或者项目 issue 帮忙回答问题，非常非常感谢！&lt;/p&gt;
-&lt;p&gt;本项目是完全开源的，也有做一些 example 示例，大家可以随便拿随便改。&lt;br /&gt;
-但是很抱歉，博主我暂时不能提供更多的支持，这个写的乱七八糟的文档，暂时也没有时间把它写得更专业一些。&lt;br /&gt;
-非常对不住大家！&lt;/p&gt;
-&lt;p&gt;iconfont 的添加申请，我看到留言后会尽快加上，希望各位小伙伴能看到。&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;note warning&#34;&gt;
-&lt;p&gt;当前版本更新至 0.2.5，&lt;a href=&#34;#%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95&#34;&gt;更新记录点此&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;note primary&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;&lt;strong&gt;🚀快速开始&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;h1 id=&#34;设计缘由&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设计缘由&#34;&gt;#&lt;/a&gt; 设计缘由&lt;/h1&gt;
-&lt;p&gt;前几年在 Bear 和 Evernote 上整理了大量笔记，非常喜欢 Bear 默认的 markdown 渲染样式。&lt;br /&gt;
-后来因为换了安卓手机，用不了 Bear，四处搜寻替代品，没有满意的。&lt;br /&gt;
-然后阴差阳错知道了 Hexo，又得知 Github 也可以免费建私有仓库了，故再次转移阵地到了自建博客，并部署在 Github Pages。&lt;/p&gt;
-&lt;p&gt;因为这个博客是用来记笔记的，故起名 &lt;code&gt;书架&lt;/code&gt; 。&lt;br /&gt;
-对应的主题即 &lt;code&gt;Theme.Shoka&lt;/code&gt; ，可以说是为了笔记阅读而生的主题。&lt;br /&gt;
-样式严重参考 Bear，部分代码严重参考&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3RoZW1lLW5leHQv&#34;&gt; NexT&lt;/span&gt;。&lt;/p&gt;
-&lt;p&gt;Hexo 的默认及常用渲染器均使用 &lt;code&gt;highlight.js&lt;/code&gt;  进行代码高亮，而我喜欢 &lt;code&gt;Prism.js&lt;/code&gt; ，故重写了一个渲染器配合主题食用。&lt;br /&gt;
-渲染器取名 &lt;code&gt;multi&lt;/code&gt; ，因为集成了很多很多很多 &lt;code&gt;markdown-it&lt;/code&gt;  插件，以及压缩静态文件的功能。&lt;br /&gt;
-（最新版的默认渲染器也支持 &lt;code&gt;Prism.js&lt;/code&gt;  了，可喜可贺，但不想用，哈哈哈哈哈哈哈&lt;/p&gt;
-&lt;p&gt;墙内 Github Pages 访问速度时而感人，所以用了&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5qc2RlbGl2ci5jb20v&#34;&gt; jsDelivr&lt;/span&gt; 加速，主要是因为它可以按需合并依赖文件。&lt;/p&gt;
-&lt;h1 id=&#34;快速安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#快速安装&#34;&gt;#&lt;/a&gt; 快速安装&lt;/h1&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# cd your-blog&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;git &lt;span class=&#34;built_in&#34;&gt;clone&lt;/span&gt; https://github.com/amehime/hexo-theme-shoka.git ./themes/shoka&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;打开主题目录，内有 &lt;code&gt;example&lt;/code&gt;  文件夹，提供了配置文件的 demo 供参考。&lt;/p&gt;
-&lt;h1 id=&#34;安装依赖插件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装依赖插件&#34;&gt;#&lt;/a&gt; 安装依赖插件&lt;/h1&gt;
-&lt;p&gt;在应用主题之前，必须至少安装 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by1yZW5kZXJlci1tdWx0aS1tYXJrZG93bi1pdA==&#34;&gt;hexo-renderer-multi-markdown-it&lt;/span&gt; 渲染插件 和 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1hdXRvcHJlZml4ZXI=&#34;&gt;hexo-autoprefixer&lt;/span&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;dependents/&#34;&gt;插件安装与配置教程戳此&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;应用主题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用主题&#34;&gt;#&lt;/a&gt; 应用主题&lt;/h1&gt;
-&lt;h2 id=&#34;修改站点配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#修改站点配置&#34;&gt;#&lt;/a&gt; 修改站点配置&lt;/h2&gt;
-&lt;p&gt;修改站点配置文件 &lt;code&gt;&amp;lt;root&amp;gt;/_config.yml&lt;/code&gt; ，把主题改为  &lt;code&gt;shoka&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;theme:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;shoka&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;h2 id=&#34;修改主题配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#修改主题配置&#34;&gt;#&lt;/a&gt; 修改主题配置&lt;/h2&gt;
-&lt;p&gt;主题配置的所有参数在 &lt;code&gt;&amp;lt;root&amp;gt;/themes/shoka/_config.yml&lt;/code&gt;  文件中。&lt;/p&gt;
-&lt;p&gt;为了方便主题升级，请在根目录新建一个 yml 文件，命名为 &lt;code&gt;_config.shoka.yml&lt;/code&gt; 。&lt;br /&gt;
-也就是说，所有主题的自定义配置均保存于 &lt;code&gt;&amp;lt;root&amp;gt;/_config.shoka.yml&lt;/code&gt;  文件。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;config/&#34;&gt;主题的基础配置可以参考这里&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;display/&#34;&gt;界面显示相关的配置参考这里&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;更新记录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#更新记录&#34;&gt;#&lt;/a&gt; 更新记录&lt;/h1&gt;
-&lt;p&gt;标签含义：&lt;br /&gt;
-❗ 需要手动操作的更新信息&lt;br /&gt;
-⚠️ 需要注意的更新信息&lt;br /&gt;
-🔧 已修复的问题&lt;br /&gt;
-⌛ TODO&lt;/p&gt;
-&lt;h2 id=&#34;024-025&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#024-025&#34;&gt;#&lt;/a&gt; 0.2.4 👉 0.2.5&lt;/h2&gt;
-&lt;p&gt;💡  避免直接修改主题文件，添加各种自定义：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;display/#%E8%87%AA%E5%AE%9A%E4%B9%89%E9%A1%B5%E9%9D%A2%E9%85%8D%E8%89%B2&#34;&gt;样式&lt;/a&gt;：包括配色、&lt;a href=&#34;config/#iconfont%E5%9B%BE%E6%A0%87&#34;&gt;icon&lt;/a&gt;、其他自定义样式&lt;/li&gt;
-&lt;li&gt;图片：包括&lt;a href=&#34;display/#%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%BB%E9%A2%98%E5%9B%BE%E7%89%87&#34;&gt;主题图片&lt;/a&gt;、&lt;a href=&#34;config/#%E9%9A%8F%E6%9C%BA%E5%9B%BE%E5%BA%93&#34;&gt;随机图库&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🔧 修复一些 BUG&lt;/p&gt;
-&lt;h2 id=&#34;023-024&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#023-024&#34;&gt;#&lt;/a&gt; 0.2.3 👉 0.2.4&lt;/h2&gt;
-&lt;p&gt;⚠️ &lt;strong&gt;评论功能更新&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;MiniValine 魔改版更新至 beta10，修改过主题默认 &lt;code&gt;_config.yml&lt;/code&gt;  的同学，记得更新末尾的 &lt;code&gt;vendors&lt;/code&gt;  到最新哦&lt;/li&gt;
-&lt;li&gt;❗ 评论相关的配置有更新，&lt;a href=&#34;config/#%E6%96%87%E7%AB%A0%E8%AF%84%E8%AE%BA&#34;&gt;配置戳此&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;主要增加的 Tag 配置，现在可以各种自定义啦&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;⚠️ 配置新增&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;夜间模式 &lt;code&gt;darkmode&lt;/code&gt; ，&lt;a href=&#34;config/#%E5%A4%9C%E9%97%B4%E6%A8%A1%E5%BC%8F&#34;&gt;配置戳此&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;自动定位 &lt;code&gt;auto_scroll&lt;/code&gt; ，&lt;a href=&#34;config/#%E8%87%AA%E5%8A%A8%E5%AE%9A%E4%BD%8D&#34;&gt;配置戳此&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;图床 API 设置 &lt;code&gt;image_server&lt;/code&gt; ，&lt;a href=&#34;config/#%E9%9A%8F%E6%9C%BA%E5%9B%BE%E5%BA%93&#34;&gt;配置戳此&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;⚠️ 背景音乐功能增强，&lt;a href=&#34;config/#%E8%83%8C%E6%99%AF%E9%9F%B3%E4%B9%90&#34;&gt;配置戳此&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;可以添加多个播放列表&lt;/li&gt;
-&lt;li&gt;加了一些控制按钮&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;⚠️ 增加 &lt;code&gt;media&lt;/code&gt;  标签，在文章中插入音频和视频播放列表，&lt;a href=&#34;special/#media%E5%A4%9A%E5%AA%92%E4%BD%93&#34;&gt;方法戳此&lt;/a&gt;&lt;br /&gt;
-⌛  视频播放器有待增强（显示分段标签，字幕）&lt;/p&gt;
-&lt;p&gt;🔧 随机图库支持非渣浪图床的任意图片&lt;br /&gt;
-🔧 还有许多小 BUG&lt;/p&gt;
-&lt;h2 id=&#34;022-023&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#022-023&#34;&gt;#&lt;/a&gt; 0.2.2 👉 0.2.3&lt;/h2&gt;
-&lt;p&gt;❗ 增加主题文件外自定义语言包的功能，&lt;a href=&#34;display/#%E8%87%AA%E5%AE%9A%E4%B9%89%E8%AF%AD%E8%A8%80%E5%8C%85&#34;&gt;配置戳此&lt;/a&gt;&lt;br /&gt;
-🔧 提高低版本浏览器兼容性&lt;/p&gt;
-&lt;h2 id=&#34;021-022&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#021-022&#34;&gt;#&lt;/a&gt; 0.2.1 👉 0.2.2&lt;/h2&gt;
-&lt;p&gt;⚠️ 弃用 &lt;code&gt;mediumzoom&lt;/code&gt; ，改成 &lt;code&gt;fancybox&lt;/code&gt; ，&lt;a href=&#34;display/#%E5%9B%BE%E7%89%87%E5%B1%95%E7%A4%BA%E4%B8%8E%E7%9B%B8%E5%86%8C&#34;&gt;配置戳此&lt;/a&gt;&lt;br /&gt;
-💡  增加语言包： &lt;code&gt;繁体中文&lt;/code&gt; 和 &lt;code&gt;日语&lt;/code&gt; &lt;br /&gt;
-💡  quiz 功能优化，根据语言显示题型标签&lt;br /&gt;
-🔧 修复评论功能中反复初始化 leancloud-storage&lt;br /&gt;
-🔧 修复 &lt;code&gt;audio: false&lt;/code&gt;  时不能隐藏播放按钮、停止播放&lt;/p&gt;
-&lt;h2 id=&#34;02-021&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#02-021&#34;&gt;#&lt;/a&gt; 0.2 👉 0.2.1&lt;/h2&gt;
+            <pubDate>Tue, 13 Aug 2024 20:45:48 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;02-021&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#02-021&#34;&gt;#&lt;/a&gt; 0.2 👉 0.2.1&lt;/h2&gt;
 &lt;p&gt;⚠️ 配置文件添加  &lt;code&gt;loader&lt;/code&gt;  参数，&lt;a href=&#34;config/#%E5%8A%A0%E8%BD%BD%E5%8A%A8%E7%94%BB&#34;&gt;配置戳此&lt;/a&gt;&lt;br /&gt;
 💡  二级 list 区别显示&lt;br /&gt;
 🔧 修复浏览位置定位 BUG&lt;br /&gt;
@@ -592,13 +212,13 @@ puppeteer 主要是用来渲染 mermaid 流程图，只要文章中不使用 mer
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/04/13/computer-science/java/course-1/week-2/</guid>
+            <guid isPermalink="true">http://example.com/2024/04/13/computer-science/java/course-1/week-2/</guid>
             <title>第2周 判断</title>
-            <link>http://example.com/2020/04/13/computer-science/java/course-1/week-2/</link>
+            <link>http://example.com/2024/04/13/computer-science/java/course-1/week-2/</link>
             <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
             <category term="Java" scheme="http://example.com/categories/computer-science/java/" />
-            <category term="零基础学Java语言-浙江大学-翁恺" scheme="http://example.com/categories/computer-science/java/course-1/" />
-            <pubDate>Mon, 13 Apr 2020 19:12:45 +0800</pubDate>
+            <category term="java学习" scheme="http://example.com/categories/computer-science/java/course-1/" />
+            <pubDate>Sat, 13 Apr 2024 19:12:45 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;:::note info&lt;br /&gt;
  以下为个人学习笔记和习题整理&lt;br /&gt;
 课程：零基础学 Java 语言 - 浙江大学 - 翁恺 @ 中国大学 MOOC&lt;br /&gt;
@@ -770,13 +390,13 @@ grape&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/04/12/computer-science/java/course-1/week-1/</guid>
+            <guid isPermalink="true">http://example.com/2024/04/12/computer-science/java/course-1/week-1/</guid>
             <title>第1周 计算</title>
-            <link>http://example.com/2020/04/12/computer-science/java/course-1/week-1/</link>
+            <link>http://example.com/2024/04/12/computer-science/java/course-1/week-1/</link>
             <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
             <category term="Java" scheme="http://example.com/categories/computer-science/java/" />
-            <category term="零基础学Java语言-浙江大学-翁恺" scheme="http://example.com/categories/computer-science/java/course-1/" />
-            <pubDate>Sun, 12 Apr 2020 20:46:25 +0800</pubDate>
+            <category term="java学习" scheme="http://example.com/categories/computer-science/java/course-1/" />
+            <pubDate>Fri, 12 Apr 2024 20:46:25 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;:::note info&lt;br /&gt;
  以下为个人学习笔记和习题整理&lt;br /&gt;
 课程：零基础学 Java 语言 - 浙江大学 - 翁恺 @ 中国大学 MOOC&lt;br /&gt;
@@ -980,10 +600,21 @@ grape&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2019/07/25/code-highlight/</guid>
+            <guid isPermalink="true">http://example.com/2024/03/25/excerpts/</guid>
+            <title>Excerpts</title>
+            <link>http://example.com/2024/03/25/excerpts/</link>
+            <pubDate>Mon, 25 Mar 2024 00:23:23 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;The following contents should be invisible in home/archive page.&lt;/p&gt;
+&lt;p&gt;&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget urna vitae velit eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Aliquam eleifend dolor vitae libero pharetra adipiscing. Etiam adipiscing dolor a quam tempor, eu convallis nulla varius. Aliquam sollicitudin risus a porta aliquam. Ut nec velit dolor. Proin eget leo lobortis, aliquam est sed, mollis mauris. Fusce vitae leo pretium massa accumsan condimentum. Fusce malesuada gravida lectus vel vulputate. Donec bibendum porta nibh ut aliquam.&lt;/p&gt;
+&lt;p&gt;Sed lorem felis, congue non fringilla eu, aliquam eu eros. Curabitur orci libero, mollis sed semper vitae, adipiscing in lectus. Aenean non egestas odio. Donec sollicitudin nisi quis lorem gravida, in pharetra mauris fringilla. Duis sit amet faucibus dolor, id aliquam neque. In egestas, odio gravida tempor dictum, mauris felis faucibus purus, sit amet commodo lacus diam vitae est. Ut ut quam eget massa semper sodales. Aenean non ipsum cursus, blandit lectus in, ornare odio. Curabitur ultrices porttitor vulputate.&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/03/21/code-highlight/</guid>
             <title>Code Highlight Style test</title>
-            <link>http://example.com/2019/07/25/code-highlight/</link>
-            <pubDate>Thu, 25 Jul 2019 16:43:00 +0800</pubDate>
+            <link>http://example.com/2024/03/21/code-highlight/</link>
+            <pubDate>Thu, 21 Mar 2024 16:43:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Make sure all the code blocks highlighted correctly. All the code samples are come from the demo of &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oaWdobGlnaHRqcy5vcmc=&#34;&gt;https://highlightjs.org&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;#x27;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
@@ -1006,12 +637,12 @@ grape&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2018/07/24/markdown/</guid>
+            <guid isPermalink="true">http://example.com/2024/03/15/markdown/</guid>
             <title>Markdown Style test</title>
-            <link>http://example.com/2018/07/24/markdown/</link>
+            <link>http://example.com/2024/03/15/markdown/</link>
             <category term="Foo" scheme="http://example.com/tags/Foo/" />
             <category term="Bar" scheme="http://example.com/tags/Bar/" />
-            <pubDate>Tue, 24 Jul 2018 23:31:06 +0800</pubDate>
+            <pubDate>Fri, 15 Mar 2024 23:31:06 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This post is originated from &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vYXBhY2tlZXIvNDE1OTI2OA==&#34;&gt;here&lt;/span&gt; and is used for testing markdown style. This post contains nearly every markdown usage. Make sure all the markdown elements below show up correctly.&lt;/p&gt;
 &lt;p&gt;&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;hr /&gt;
@@ -1104,7 +735,7 @@ And more text.&lt;/p&gt;
 &lt;p&gt;Inline  &lt;code&gt;code&lt;/code&gt;  has  &lt;code&gt;back-ticks around&lt;/code&gt;  it.&lt;/p&gt;
 &lt;p&gt;&lt;figure class=&#34;highlight javascript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; s = &lt;span class=&#34;string&#34;&gt;&amp;quot;JavaScript syntax highlighting&amp;quot;&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;title function_&#34;&gt;alert&lt;/span&gt;(s);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;s = &lt;span class=&#34;string&#34;&gt;&amp;quot;Python syntax highlighting&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt; s&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;No language indicated, so no syntax highlighting.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;But let&amp;#x27;s throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;highlight vim&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;No &lt;span class=&#34;keyword&#34;&gt;language&lt;/span&gt; indicated, &lt;span class=&#34;keyword&#34;&gt;so&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;no&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;syntax&lt;/span&gt; highlighting.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;But &lt;span class=&#34;keyword&#34;&gt;let&lt;/span&gt;&lt;span class=&#34;string&#34;&gt;&amp;#x27;s throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h2 id=&#34;tables&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#tables&#34;&gt;#&lt;/a&gt; Tables&lt;/h2&gt;
 &lt;p&gt;&lt;figure class=&#34;highlight markdown&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;|                |ASCII                          |HTML                         |&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;|----------------|-------------------------------|-----------------------------|&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;|Single backticks|&lt;span class=&#34;code&#34;&gt;`&amp;#x27;Isn&amp;#x27;t this fun?&amp;#x27;`&lt;/span&gt;            |&amp;#x27;Isn&amp;#x27;t this fun?&amp;#x27;            |&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;|Quotes          |&lt;span class=&#34;code&#34;&gt;`&amp;quot;Isn&amp;#x27;t this fun?&amp;quot;`&lt;/span&gt;            |&amp;quot;Isn&amp;#x27;t this fun?&amp;quot;            |&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;|Dashes          |&lt;span class=&#34;code&#34;&gt;`-- is en-dash, --- is em-dash`&lt;/span&gt;|-- is en-dash, --- is em-dash|&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;table&gt;
@@ -1235,41 +866,10 @@ alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2013/12/26/images/</guid>
-            <title>Images</title>
-            <link>http://example.com/2013/12/26/images/</link>
-            <pubDate>Thu, 26 Dec 2013 22:46:49 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This is a image test post.&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2572384.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2311325.jpg&#34; alt=&#34;Caption&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-878514.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://placehold.it/350x150.jpg&#34; alt=&#34;Small Picture&#34; /&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2013/12/25/no-title/</guid>
-            <title></title>
-            <link>http://example.com/2013/12/25/no-title/</link>
-            <pubDate>Wed, 25 Dec 2013 22:57:49 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This post doesn&#39;t have a title. Make sure it&#39;s accessible.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2013/12/25/excerpts/</guid>
-            <title>Excerpts</title>
-            <link>http://example.com/2013/12/25/excerpts/</link>
-            <pubDate>Wed, 25 Dec 2013 00:23:23 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;The following contents should be invisible in home/archive page.&lt;/p&gt;
-&lt;p&gt;&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget urna vitae velit eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Aliquam eleifend dolor vitae libero pharetra adipiscing. Etiam adipiscing dolor a quam tempor, eu convallis nulla varius. Aliquam sollicitudin risus a porta aliquam. Ut nec velit dolor. Proin eget leo lobortis, aliquam est sed, mollis mauris. Fusce vitae leo pretium massa accumsan condimentum. Fusce malesuada gravida lectus vel vulputate. Donec bibendum porta nibh ut aliquam.&lt;/p&gt;
-&lt;p&gt;Sed lorem felis, congue non fringilla eu, aliquam eu eros. Curabitur orci libero, mollis sed semper vitae, adipiscing in lectus. Aenean non egestas odio. Donec sollicitudin nisi quis lorem gravida, in pharetra mauris fringilla. Duis sit amet faucibus dolor, id aliquam neque. In egestas, odio gravida tempor dictum, mauris felis faucibus purus, sit amet commodo lacus diam vitae est. Ut ut quam eget massa semper sodales. Aenean non ipsum cursus, blandit lectus in, ornare odio. Curabitur ultrices porttitor vulputate.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2013/12/25/gallery-post/</guid>
+            <guid isPermalink="true">http://example.com/2024/03/02/gallery-post/</guid>
             <title>Gallery Post</title>
-            <link>http://example.com/2013/12/25/gallery-post/</link>
-            <pubDate>Wed, 25 Dec 2013 00:16:18 +0800</pubDate>
+            <link>http://example.com/2024/03/02/gallery-post/</link>
+            <pubDate>Sat, 02 Mar 2024 00:16:18 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This post contains 4 photos:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Widescreen wallpaper&lt;/li&gt;
@@ -1279,158 +879,6 @@ alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height
 &lt;/ul&gt;
 &lt;p&gt;All photos should be displayed properly.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;From &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3dhbGxiYXNlLmNj&#34;&gt;Wallbase.cc&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2013/12/24/link-post-without-title/</guid>
-            <title></title>
-            <link>http://example.com/2013/12/24/link-post-without-title/</link>
-            <pubDate>Tue, 24 Dec 2013 23:44:13 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This is a link post without a title. The title should be the link with or without protocol. Clicking on the link should open &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5nb29nbGUuY29tLw==&#34;&gt;Google&lt;/span&gt; in a new tab or window.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2013/12/24/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</guid>
-            <title>日本語テスト</title>
-            <link>http://example.com/2013/12/24/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</link>
-            <pubDate>Tue, 24 Dec 2013 23:33:26 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This is a Japanese test post.&lt;/p&gt;
-&lt;p&gt;私は昨日ついにその助力家というのの上よりするたなけれ。&lt;/p&gt;
-&lt;p&gt;最も今をお話団はちょうどこの前後なかろでくらいに困りがいるたをは帰着考えたなかって、そうにもするでうたらない。&lt;/p&gt;
-&lt;p&gt;がたを知っないはずも同時に九月をいよいよたありた。&lt;/p&gt;
-&lt;p&gt;もっと槙さんにぼんやり金少し説明にえた自分大した人私か影響にというお関係たうませないが、この次第も私か兄具合に使うて、槙さんののに当人のあなたにさぞご意味と行くて私個人が小尊敬を聴いように同時に同反抗に集っだうて、いよいよまず相当へあっうからいだ事をしでなけれ。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;それでそれでもご時日をしはずはたったいやと突き抜けるますて、その元がは行ったてという獄を尽すていけですた。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;この中道具の日その学校はあなたごろがすまなりかとネルソンさんの考えるですん、辺の事実ないというご盲従ありたですと、爺さんのためが薬缶が結果までの箸の当時してならて、多少の十月にためからそういう上からとにかくしましないと触れべきものたで、ないうですと多少お人達したのでたた。&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;From &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2xpcHN1bS5zdWd1dHN1a2FlcnUuanAvaW5kZXguY2dp&#34;&gt;すぐ使えるダミーテキスト - 日本語 Lorem ipsum&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2013/12/24/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</guid>
-            <title>中文測試</title>
-            <link>http://example.com/2013/12/24/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</link>
-            <pubDate>Tue, 24 Dec 2013 23:31:30 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This is a Chinese test post.&lt;/p&gt;
-&lt;p&gt;善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。&lt;/p&gt;
-&lt;p&gt;以也座論頭室業放。要車時地變此親不老高小是統習直麼調未，行年香一？&lt;/p&gt;
-&lt;p&gt;就竟在，是我童示讓利分和異種百路關母信過明驗有個歷洋中前合著區亮風值新底車有正結，進快保的行戰從：弟除文辦條國備當來際年每小腳識世可的的外的廣下歌洲保輪市果底天影；全氣具些回童但倒影發狀在示，數上學大法很，如要我…… 月品大供這起服滿老？應學傳者國：山式排只不之然清同關；細車是！停屋常間又，資畫領生，相們制在？公別的人寫教資夠。資再我我！只臉夫藝量不路政吃息緊回力之；兒足灣電空時局我怎初安。意今一子區首者微陸現際安除發連由子由而走學體區園我車當會，經時取頭，嚴了新科同？很夫營動通打，出和導一樂，查旅他。坐是收外子發物北看蘭戰坐車身做可來。道就學務。&lt;/p&gt;
-&lt;p&gt;國新故。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;工步他始能詩的，裝進分星海演意學值例道…… 於財型目古香亮自和這乎？化經溫詩。只賽嚴大一主價世哥受的沒有中年即病行金拉麼河。主小路了種就小為廣不？&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;em&gt;From &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5yaWNoeWxpLmNvbS90b29sL2xvcmVtaXBzdW0v&#34;&gt;亂數假文產生器 - Chinese Lorem Ipsum&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2013/12/24/long-title/</guid>
-            <title>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam justo turpis, tincidunt ac convallis id.</title>
-            <link>http://example.com/2013/12/24/long-title/</link>
-            <pubDate>Tue, 24 Dec 2013 23:31:06 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This post has a long title. Make sure the title displayed right.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2013/12/24/categories/</guid>
-            <title>Categories</title>
-            <link>http://example.com/2013/12/24/categories/</link>
-            <category term="Foo" scheme="http://example.com/categories/Foo/" />
-            <category term="Bar" scheme="http://example.com/categories/Foo/Bar/" />
-            <category term="Baz" scheme="http://example.com/categories/Foo/Bar/Baz/" />
-            <pubDate>Tue, 24 Dec 2013 23:30:09 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This post contains 3 categories. Make sure your theme can display all of the categories.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2013/12/24/link-post/</guid>
-            <title>Link Post</title>
-            <link>http://example.com/2013/12/24/link-post/</link>
-            <pubDate>Tue, 24 Dec 2013 23:30:04 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This is a link post. Clicking on the link should open &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5nb29nbGUuY29tLw==&#34;&gt;Google&lt;/span&gt; in a new tab or window.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2013/12/24/tags/</guid>
-            <title>Tags</title>
-            <link>http://example.com/2013/12/24/tags/</link>
-            <category term="Foo" scheme="http://example.com/tags/Foo/" />
-            <category term="Bar" scheme="http://example.com/tags/Bar/" />
-            <category term="Baz" scheme="http://example.com/tags/Baz/" />
-            <pubDate>Tue, 24 Dec 2013 23:29:53 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This post contains 3 tags. Make sure your theme can display all of the tags.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2013/12/24/elements/</guid>
-            <title>Elements</title>
-            <link>http://example.com/2013/12/24/elements/</link>
-            <pubDate>Tue, 24 Dec 2013 23:29:08 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;The purpose of this post is to help you make sure all of HTML elements can display properly. If you use CSS reset, don&#39;t forget to redefine the style by yourself.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h1 id=&#34;heading-1&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#heading-1&#34;&gt;#&lt;/a&gt; Heading 1&lt;/h1&gt;
-&lt;h2 id=&#34;heading-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#heading-2&#34;&gt;#&lt;/a&gt; Heading 2&lt;/h2&gt;
-&lt;h3 id=&#34;heading-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#heading-3&#34;&gt;#&lt;/a&gt; Heading 3&lt;/h3&gt;
-&lt;h4 id=&#34;heading-4&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#heading-4&#34;&gt;#&lt;/a&gt; Heading 4&lt;/h4&gt;
-&lt;h5 id=&#34;heading-5&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#heading-5&#34;&gt;#&lt;/a&gt; Heading 5&lt;/h5&gt;
-&lt;h6 id=&#34;heading-6&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#heading-6&#34;&gt;#&lt;/a&gt; Heading 6&lt;/h6&gt;
-&lt;hr /&gt;
-&lt;h2 id=&#34;paragraph&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#paragraph&#34;&gt;#&lt;/a&gt; Paragraph&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, &lt;a href=&#34;&#34;&gt;test link&lt;/a&gt; consectetur adipiscing elit. &lt;strong&gt;Strong text&lt;/strong&gt; pellentesque ligula commodo viverra vehicula. &lt;em&gt;Italic text&lt;/em&gt; at ullamcorper enim. Morbi a euismod nibh. &amp;lt;u&amp;gt;Underline text&amp;lt;/u&amp;gt; non elit nisl. &lt;s&gt;Deleted text&lt;/s&gt; tristique, sem id condimentum tempus, metus lectus venenatis mauris, sit amet semper lorem felis a eros. Fusce egestas nibh at sagittis auctor. Sed ultricies ac arcu quis molestie. Donec dapibus nunc in nibh egestas, vitae volutpat sem iaculis. Curabitur sem tellus, elementum nec quam id, fermentum laoreet mi. Ut mollis ullamcorper turpis, vitae facilisis velit ultricies sit amet. Etiam laoreet dui odio, id tempus justo tincidunt id. Phasellus scelerisque nunc sed nunc ultricies accumsan.&lt;/p&gt;
-&lt;p&gt;Interdum et malesuada fames ac ante ipsum primis in faucibus.  &lt;code&gt;Sed erat diam&lt;/code&gt; , blandit eget felis aliquam, rhoncus varius urna. Donec tellus sapien, sodales eget ante vitae, feugiat ullamcorper urna. Praesent auctor dui vitae dapibus eleifend. Proin viverra mollis neque, ut ullamcorper elit posuere eget.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Maecenas ornare arcu at mi suscipit, non molestie tortor ultrices. Aenean convallis, diam et congue ultricies, erat magna tincidunt orci, pulvinar posuere mi sapien ac magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent vitae placerat mauris. Nullam laoreet ante posuere tortor blandit auctor. Sed id ligula volutpat leo consequat placerat. Mauris fermentum dolor sed augue malesuada sollicitudin. Vivamus ultrices nunc felis, quis viverra orci eleifend ut. Donec et quam id urna cursus posuere. Donec elementum scelerisque laoreet.&lt;/p&gt;
-&lt;h2 id=&#34;list-types&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#list-types&#34;&gt;#&lt;/a&gt; List Types&lt;/h2&gt;
-&lt;h3 id=&#34;definition-list-dl&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#definition-list-dl&#34;&gt;#&lt;/a&gt; Definition List (dl)&lt;/h3&gt;
-&lt;p&gt;&amp;lt;dl&amp;gt;&amp;lt;dt&amp;gt;Definition List Title&amp;lt;/dt&amp;gt;&amp;lt;dd&amp;gt;This is a definition list division.&amp;lt;/dd&amp;gt;&amp;lt;/dl&amp;gt;&lt;/p&gt;
-&lt;h3 id=&#34;ordered-list-ol&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ordered-list-ol&#34;&gt;#&lt;/a&gt; Ordered List (ol)&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;List Item 1&lt;/li&gt;
-&lt;li&gt;List Item 2&lt;/li&gt;
-&lt;li&gt;List Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;unordered-list-ul&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#unordered-list-ul&#34;&gt;#&lt;/a&gt; Unordered List (ul)&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;List Item 1&lt;/li&gt;
-&lt;li&gt;List Item 2&lt;/li&gt;
-&lt;li&gt;List Item 3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;checkbox-list-ul&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#checkbox-list-ul&#34;&gt;#&lt;/a&gt; Checkbox List (ul)&lt;/h3&gt;
-&lt;ul class=&#34;task-list&#34;&gt;
-&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_0&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_0&#34;&gt; List Item 1 unchecked&lt;/label&gt;&lt;/li&gt;
-&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_1&#34; checked=&#34;true&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_1&#34;&gt; List Item 2 checked&lt;/label&gt;&lt;/li&gt;
-&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_2&#34; checked=&#34;true&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_2&#34;&gt; List Item 3 checked&lt;/label&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;table&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#table&#34;&gt;#&lt;/a&gt; Table&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Table Header 1&lt;/th&gt;
-&lt;th&gt;Table Header 2&lt;/th&gt;
-&lt;th&gt;Table Header 3&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Division 1&lt;/td&gt;
-&lt;td&gt;Division 2&lt;/td&gt;
-&lt;td&gt;Division 3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Division 1&lt;/td&gt;
-&lt;td&gt;Division 2&lt;/td&gt;
-&lt;td&gt;Division 3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Division 1&lt;/td&gt;
-&lt;td&gt;Division 2&lt;/td&gt;
-&lt;td&gt;Division 3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;misc-stuff-abbr-acronym-sub-sup-kbd-etc&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#misc-stuff-abbr-acronym-sub-sup-kbd-etc&#34;&gt;#&lt;/a&gt; Misc Stuff - abbr, acronym, sub, sup, kbd, etc.&lt;/h2&gt;
-&lt;p&gt;Lorem &amp;lt;sup&amp;gt;superscript&amp;lt;/sup&amp;gt; dolor &amp;lt;sub&amp;gt;subscript&amp;lt;/sub&amp;gt; amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. &amp;lt;cite&amp;gt;cite&amp;lt;/cite&amp;gt;. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. &amp;lt;acronym title=&amp;quot;National Basketball Association&amp;quot;&amp;gt;NBA&amp;lt;/acronym&amp;gt; Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.  &amp;lt;abbr title=&amp;quot;Avenue&amp;quot;&amp;gt;AVE&amp;lt;/abbr&amp;gt;. Use &amp;lt;kbd&amp;gt;Crtl&amp;lt;/kbd&amp;gt; + &amp;lt;kbd&amp;gt;C&amp;lt;/kbd&amp;gt; to stop.&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
